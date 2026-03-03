@@ -1,8 +1,2 @@
 [build]
   publish = "catalog"
-  command = "echo 'No build needed'"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
