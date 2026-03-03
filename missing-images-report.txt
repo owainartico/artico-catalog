@@ -1,0 +1,361 @@
+Catalog Product Summary
+======================
+
+Total catalog products: 1377
+With images: 1289
+Without images: 88
+
+Missing Images (88 products):
+================
+
+[BFS] Black Floor Spinner
+  Category: Display
+  Order: 20
+
+[BFSRB] Black Floor Spinner Rotating Base
+  Category: Display
+  Order: 20
+
+[SP010] Small Pouch - Quiet Blossom
+  Category: Small Pouch
+  Order: 20.019
+
+[SP011] Small Pouch - Falling Free
+  Category: Small Pouch
+  Order: 20.02
+
+[CB10] Cosmetic Bag - Quiet Blossom
+  Category: Cosmetic Bag
+  Order: 20.029
+
+[CB11] Cosmetic Bag - Falling Free
+  Category: Cosmetic Bag
+  Order: 20.03
+
+[TP05] Telescopic Pouch - Peonie Rose
+  Category: Telescopic Pouch
+  Order: 20.053
+
+[TB040] Tote Bag - Black Canvas
+  Category: Tote Bags
+  Order: 20.075
+
+[CDUBF] Bamboo Fans WDU
+  Category: Display
+  Order: 20.133
+
+[MCDU] Manicure CDU
+  Category: Display
+  Order: 20.176
+
+[GC017] Glasses Case - Quiet Blossom
+  Category: Glasses Case
+  Order: 20.213
+
+[GC018] Glasses Case - Falling Free
+  Category: Glasses Case
+  Order: 20.214
+
+[TC033] Travel Case - Quiet Blossom
+  Category: Glasses Case
+  Order: 20.228
+
+[TC034] Travel Case - Falling Free
+  Category: Glasses Case
+  Order: 20.229
+
+[UMBSU] Umbrella Set Up- Colored 30cmD x 50cmW x 165cmH
+  Category: Umbrellas
+  Order: 20.242
+
+[LSD] Ladder Stand Display 30cmD x 50cmW x 165cmH
+  Category: Display
+  Order: 20.279
+
+[SPEM] Eye Mask Set Up
+  Category: Eye Mask
+  Order: 20.289
+
+[HWB05] Extra Long Hot Water Bottle - Australian Natives
+  Category: Hot Water Bottle
+  Order: 20.344
+
+[HP05] Silicone Heat Bag - Australian Natives
+  Category: Heat Pack
+  Order: 20.344
+
+[HWB06] Extra Long Hot Water Bottle - Golden Wattle
+  Category: Hot Water Bottle
+  Order: 20.345
+
+[HP06] Silicone Heat Bag - Golden Wattle
+  Category: Heat Pack
+  Order: 20.345
+
+[HP07] Silicone Heat Bag - Tropical Koala
+  Category: Heat Pack
+  Order: 20.346
+
+[HWB07] Extra Long Hot Water Bottle - Tropical Koala
+  Category: Hot Water Bottle
+  Order: 20.347
+
+[CDU8] All Display 8
+  Category: Display
+  Order: 20.372
+
+[SPHB] Head Band Set Up
+  Category: Head Band
+  Order: 20.39
+
+[SPS] Scrunchies Set Up
+  Category: Scrunchie
+  Order: 20.395
+
+[SPR] Rollers Set Up
+  Category: Face Roller
+  Order: 20.458
+
+[WB14] Water Bottle - Quiet Blossom
+  Category: Water Bottle
+  Order: 20.468
+
+[WB13] Water Bottle - Tropical Koala
+  Category: Water Bottle
+  Order: 20.468
+
+[WBL06] Large Water Bottle - Tropical Koala
+  Category: Water Bottle
+  Order: 20.4841
+
+[WBL08] Large Water Bottle - Falling Free
+  Category: Water Bottle
+  Order: 20.486
+
+[WBL07] Large Water Bottle - Quiet Blossom
+  Category: Water Bottle
+  Order: 20.487
+
+[BM22] Tea Infuser Mug - Quiet Blossom
+  Category: Mugs
+  Order: 20.502
+
+[BM23] Tea Infuser Mug - Falling Free
+  Category: Mugs
+  Order: 20.503
+
+[SPFJCL] A5 FABRIC JOURNAL SET UP - CHAPTER & LIGHT
+  Category: Notebooks
+  Order: 20.56
+
+[SPFJB] A5 BLANK FABRIC JOURNALS STARTER PACK 8 pcs
+  Category: Notebooks
+  Order: 20.571
+
+[SPA6FJ] A6 FABRIC JOURNALS STARTER PACK
+  Category: Notebooks
+  Order: 20.61
+
+[J30] Journal A5 - In My Romantasy Era
+  Category: Romantasy
+  Order: 20.61
+
+[J31] Journal A5 - Fly Or Die
+  Category: Romantasy
+  Order: 20.611
+
+[J32] Journal A5 - I don't Kneel To Fae Kings
+  Category: Romantasy
+  Order: 20.612
+
+[J33] Journal A5 - Enemies To Lovers
+  Category: Romantasy
+  Order: 20.613
+
+[J34] Journal A5 - I Can Fix Him Or Join Him
+  Category: Romantasy
+  Order: 20.614
+
+[CDUVS] Vitals Stones WDU
+  Category: Drinking Accessories
+  Order: 30.27
+
+[CSWDU] Chapter & Sole Sock Display
+  Category: Display
+  Order: 31.9
+
+[FC] Food Cart
+  Category: Display
+  Order: 31.9
+
+[TIMSU] Tea Infuser Mug Set Up
+  Category: Mugs
+  Order: 40.06
+
+[SPVS] Vitals Stones Set Up
+  Category: Drinking Accessories
+  Order: 40.09
+
+[SKSU] Snow Kiln Keep Cup Set Up
+  Category: Keep Cup
+  Order: 40.106
+
+[WCD] WARMING COASTER DISPLAY
+  Category: Display
+  Order: 40.142
+
+[CSSU] Cupcake Socks Set Up
+  Category: Socks
+  Order: 40.16
+
+[CCSCDU] Cup Cake Socks CDU
+  Category: Display
+  Order: 40.167
+
+[QBDDSTD] QBD Double Sided Table Top Display (Christmas Ornaments)
+  Category: Display
+  Order: 50.101
+
+[WO012] Australian Made Wooden Ornament -Triceratops
+  Category: Christmas
+  Order: 50.114
+
+[WO021] Australian Made Wooden Ornament - Rainbow Lorikeet
+  Category: Christmas
+  Order: 50.122
+
+[WO064] Tram Green - Australian Made Wooden Ornament
+  Category: Christmas
+  Order: 50.164
+
+[ACD001] Artico Magnet Counter Display
+  Category: Display
+  Order: 51.001
+
+[WFMGSP] Floral Set Up Australian Made Wooden Magnets 72 Units
+  Category: Magnets
+  Order: 51.002
+
+[WAMGSP] Animal Set Up Australian Made Wooden Magnets 72 Units
+  Category: Magnets
+  Order: 51.015
+
+[WFM031] Bondi Beach Driving Kangaroo - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM028] Bondi Beach Driving Koala - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM029] Bondi Beach Kangaroo - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM026] Bondi Beach Koala - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM030] Bondi Beach Lifeguard Kangaroo - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM027] Bondi Beach Lifeguard Koala - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM025] Bondi Beach Surf Board - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM033] Ocean Grove Driving Kangaroo - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WFM032] Ocean Grove Surfing Koala - Australian Made Wooden Fridge Magnet
+  Category: Magnets
+  Order: 51.027
+
+[WKRASP] Floral Set Up Australian Made Wooden Keyrings 72 Units
+  Category: Key Ring
+  Order: 52.001
+
+[WAKRASP] Animal Set Up Australian Made Wooden Keyrings 72 Units
+  Category: Key Ring
+  Order: 52.014
+
+[WK026] Ocean Grove Driving Kangaroo - Australian Made Wooden Key Ring
+  Category: Key Rings
+  Order: 52.026
+
+[WK025] Ocean Grove Surfing Koala - Australian Made Wooden Key Ring
+  Category: Key Rings
+  Order: 52.0261
+
+[KRWDU] Key Ring Display
+  Category: Display
+  Order: 52.027
+
+[WBKMSP] Floral Set Up Australian Made Wooden Bookmarks  72 Units
+  Category: Bookmarks
+  Order: 52.031
+
+[BMWDU] Bookmarks Display
+  Category: Display
+  Order: 53.001
+
+[WB045] Australian Made Wooden Bookmark - Bondi Beach Surf Board
+  Category: Bookmarks
+  Order: 54.013
+
+[WB046] Australian Made Wooden Bookmark - Bondi Beach Koala
+  Category: Bookmarks
+  Order: 54.0131
+
+[WB047] Australian Made Wooden Bookmark - Bondi Beach Lifeguard Koala
+  Category: Bookmarks
+  Order: 54.0133
+
+[WB048] Australian Made Wooden Bookmark - Bondi Beach Driving Koala
+  Category: Bookmarks
+  Order: 54.0134
+
+[WB049] Australian Made Wooden Bookmark - Bondi Beach Kangaroo
+  Category: Bookmarks
+  Order: 54.0135
+
+[WB050] Australian Made Wooden Bookmark - Bondi Beach Lifeguard Kangaroo
+  Category: Bookmarks
+  Order: 54.0136
+
+[CUST01] Australian Made Wooden Bookmark - Better Read Than Dead
+  Category: Bookmarks
+  Order: 54.0137
+
+[WB051] Australian Made Wooden Bookmark - Bondi Beach Driving Kangaroo
+  Category: Bookmarks
+  Order: 54.0137
+
+[RSSUD125] Reading Socks Option 1 2025
+  Category: Socks
+  Order: 61.021
+
+[RSSUD225] Reading Socks Option 2 2025
+  Category: Socks
+  Order: 61.022
+
+[RSSUD325] Reading Socks Option 3 2025
+  Category: Socks
+  Order: 61.023
+
+[FBTBLRSP] Flexi and Traveller Book Light Rechargeable Set Up
+  Category: Book Light
+  Order: 62.0131
+
+[SPNL] Nano Light Set Up
+  Category: Book Light
+  Order: 62.031
+
+[LMWS] Loudmouth Wire Spinner
+  Category: Display
+  Order: 70.029

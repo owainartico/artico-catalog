@@ -1,0 +1,187 @@
+{
+  "file_1": {
+    "fytm_percentages": {
+      "monthly_percentages": [
+        0.08461235733963,
+        0.0776597140233503,
+        0.0583103764921947,
+        0.0342384887839433,
+        0.0748393021120293,
+        0.0613275613275613,
+        0.114325068870523,
+        0.0786435786435786,
+        0.0765446674537583,
+        0.14521841794569,
+        0.112226157680703,
+        0.0820543093270366
+      ],
+      "total": 0.9999999999999984
+    },
+    "planned_order": {
+      "sheet_name": "Planned order",
+      "headers": [],
+      "forecast_column": null,
+      "soh_column": null,
+      "stockout_column": null,
+      "pending_po_column": null,
+      "sample_formulas": {}
+    },
+    "sales_history": {
+      "IF MAR": {
+        "sample_rows": [
+          [
+            "NOV"
+          ],
+          [],
+          [],
+          [
+            "0.1",
+            "0.1",
+            "0.1",
+            "0.06",
+            "0.09",
+            "0.065",
+            "0.08",
+            "0.08",
+            "0.06",
+            "0.06"
+          ],
+          [
+            "2025-10-24 00:00:00",
+            "2025-11-24 00:00:00",
+            "2025-12-24 00:00:00",
+            "2025-01-25 00:00:00",
+            "2025-02-25 00:00:00",
+            "2025-03-25 00:00:00",
+            "2025-04-25 00:00:00",
+            "2025-05-25 00:00:00",
+            "2025-06-25 00:00:00",
+            "2025-07-25 00:00:00"
+          ]
+        ],
+        "dimensions": "A1:AMW262144"
+      },
+      "FYTM MAR": {
+        "sample_rows": [
+          [],
+          [],
+          [],
+          [],
+          [
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00",
+            "2025-04-23 00:00:00",
+            "2025-05-23 00:00:00",
+            "2025-06-23 00:00:00",
+            "2025-07-23 00:00:00"
+          ]
+        ],
+        "dimensions": "A1:BZT262144"
+      }
+    }
+  },
+  "file_2": {
+    "fytm_percentages": null,
+    "planned_order": {
+      "sheet_name": "Planned order",
+      "headers": [
+        "Planning Group",
+        "Product Category",
+        "ITEM NAME",
+        "SKU",
+        "FORECAST",
+        "SOH  as of \nFEB 23",
+        " Value per Unit ",
+        "Stock Value",
+        "Stockout Month of current SOH",
+        "PENDING PO -ETA MAR",
+        "Stockout Month after PO",
+        "BALANCE UNTIL AUGUST",
+        "MOQ",
+        "QTY TO ORDER ",
+        "REMARKS",
+        "PO VALUE"
+      ],
+      "forecast_column": 5,
+      "soh_column": 9,
+      "stockout_column": 11,
+      "pending_po_column": 10,
+      "sample_formulas": {}
+    },
+    "sales_history": {
+      "Forecast": {
+        "sample_rows": [
+          [],
+          [],
+          [],
+          [
+            "Monthly Calendar based on Main Runners Actual"
+          ],
+          [
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00",
+            "2025-04-23 00:00:00",
+            "2025-05-23 00:00:00",
+            "2025-06-23 00:00:00",
+            "2025-07-23 00:00:00",
+            "2025-08-23 00:00:00",
+            "2025-09-23 00:00:00"
+          ]
+        ],
+        "dimensions": "A1:DJ262140"
+      }
+    }
+  },
+  "file_3": {
+    "fytm_percentages": null,
+    "planned_order": {
+      "sheet_name": "Planned order",
+      "headers": [],
+      "forecast_column": null,
+      "soh_column": null,
+      "stockout_column": null,
+      "pending_po_column": null,
+      "sample_formulas": {}
+    },
+    "sales_history": {
+      "Forecast": {
+        "sample_rows": [
+          [],
+          [],
+          [],
+          [
+            "0.057",
+            "0.114",
+            "0.127",
+            "0.115",
+            "0.094",
+            "0.052",
+            "0.065",
+            "0.07",
+            "0.097",
+            "0.046"
+          ],
+          [
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00",
+            "2025-04-23 00:00:00",
+            "2025-05-23 00:00:00",
+            "2025-06-23 00:00:00",
+            "2025-07-23 00:00:00"
+          ]
+        ],
+        "dimensions": "A1:ANV387"
+      }
+    }
+  }
+}

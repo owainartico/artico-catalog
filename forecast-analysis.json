@@ -1,0 +1,2603 @@
+[
+  {
+    "filename": "forecasting-1.xlsx",
+    "sheets": [
+      {
+        "name": "IF MAR",
+        "dimensions": "A1:AMW262144",
+        "headers": [
+          "NOV"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "0.1",
+            "0.1",
+            "0.1",
+            "0.06",
+            "0.09",
+            "0.065"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "2025-10-24 00:00:00",
+            "2025-11-24 00:00:00",
+            "2025-12-24 00:00:00",
+            "2025-01-25 00:00:00",
+            "2025-02-25 00:00:00",
+            "2025-03-25 00:00:00"
+          ],
+          [
+            "Planning Group",
+            "Product Category",
+            "item_name",
+            "sku",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales"
+          ],
+          [
+            "5 IF by Air",
+            "Book Holder",
+            "Travel Book Rest Starter Pack",
+            "SP358",
+            "",
+            "",
+            "",
+            "2.0",
+            "2.0",
+            "1.0"
+          ],
+          [
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK RESTS CDU",
+            "CDU358",
+            "1.0",
+            "2.0",
+            "",
+            "",
+            "",
+            "-1.0"
+          ],
+          [
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK REST - BLUE",
+            "35801.0",
+            "54.0",
+            "",
+            "90.0",
+            "24.0",
+            "12.0",
+            ""
+          ],
+          [
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK REST - GREY",
+            "35804.0",
+            "",
+            "18.0",
+            "96.0",
+            "12.0",
+            "12.0",
+            "6.0"
+          ],
+          [
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK REST - MINT",
+            "35805.0",
+            "",
+            "18.0",
+            "90.0",
+            "6.0",
+            "6.0",
+            "6.0"
+          ]
+        ]
+      },
+      {
+        "name": "FYTM MAR",
+        "dimensions": "A1:BZT262144",
+        "headers": [],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00"
+          ],
+          [
+            "Planning Group",
+            "Product Category",
+            "item_name",
+            "sku",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales"
+          ],
+          [
+            "4 FYTM - From You To Me",
+            "Baby Journals",
+            "EARLY YEARS GREY",
+            "EYG",
+            "36.0",
+            "24.0",
+            "15.0",
+            "9.0",
+            "18.0",
+            "12.0"
+          ],
+          [
+            "4 FYTM - From You To Me",
+            "Baby Journals",
+            "BUMP TO BIRTHDAY FABRIC",
+            "F3A",
+            "30.0",
+            "18.0",
+            "6.0",
+            "9.0",
+            "49.0",
+            "58.0"
+          ],
+          [
+            "4 FYTM - From You To Me",
+            "Baby Journals",
+            "THE STORY OF US",
+            "F3B",
+            "30.0",
+            "36.0",
+            "6.0",
+            "9.0",
+            "52.0",
+            "39.0"
+          ],
+          [
+            "4 FYTM - From You To Me",
+            "Children's Books",
+            "BABY BOOKS STARTER PACK",
+            "BBSP",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4 FYTM - From You To Me",
+            "Children's Books",
+            "BABY BOOKS STARTER PACK",
+            "BBSPNO2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "NEW RANGE Mar",
+        "dimensions": "A1:AMR262144",
+        "headers": [
+          "SET UP"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00"
+          ],
+          [
+            "Planning Group",
+            "Product Category",
+            "item_name",
+            "sku",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales"
+          ],
+          [
+            "3 New Range",
+            "Bamboo Fan",
+            "Bamboo Fan - Australian Natives",
+            "BF11",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3 New Range",
+            "Bamboo Fan",
+            "Bamboo Fan - Golden Wattle",
+            "BF12",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3 New Range",
+            "Book Holder",
+            "Bean Bag Book Holder Raspberry Blush",
+            "BBBH1",
+            "",
+            "",
+            "",
+            "",
+            "25.0",
+            "13.0"
+          ],
+          [
+            "3 New Range",
+            "Book Holder",
+            "Bean Bag Book Holder Strawberry Thief",
+            "BBBH4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3 New Range",
+            "Book Holder",
+            "Bean Bag Book Holder Van Gogh's Sunflowers",
+            "BBBH5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "Planned order",
+        "dimensions": "B1:AG261686",
+        "headers": [],
+        "sample_formulas": [
+          {
+            "cell": "P4",
+            "formula": "=N4*-1"
+          },
+          {
+            "cell": "P5",
+            "formula": "=N5*-1"
+          },
+          {
+            "cell": "P6",
+            "formula": "=N6*-1"
+          },
+          {
+            "cell": "P7",
+            "formula": "=N7*-1"
+          },
+          {
+            "cell": "P8",
+            "formula": "=N8*-1"
+          },
+          {
+            "cell": "P9",
+            "formula": "=N9*-1"
+          },
+          {
+            "cell": "P10",
+            "formula": "=N10*-1"
+          },
+          {
+            "cell": "P11",
+            "formula": "=N11*-1"
+          },
+          {
+            "cell": "P12",
+            "formula": "=N12*-1"
+          },
+          {
+            "cell": "P13",
+            "formula": "=N13*-1"
+          }
+        ],
+        "sample_data": [
+          [
+            "",
+            "RECALCULATION - STOCK UPTO MAY 2026",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Planning Group",
+            "Product Category",
+            "ITEM NAME",
+            "SKU",
+            "FORECAST\nUNTIL MAY",
+            "SOH  as of FEB 23",
+            "Value per unit",
+            "STOCK VALUE",
+            "Stockout Month of current SOH"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK REST - BLUE",
+            "35801.0",
+            "50.0",
+            "15.0",
+            "6.24",
+            "93.5895",
+            "MARCH"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Book Holder",
+            "TRAVEL BOOK REST - GREY",
+            "35804.0",
+            "49.0",
+            "",
+            "",
+            "",
+            "NO STOCK"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Book Holder",
+            "GIMBLE - PINK",
+            "36803.0",
+            "77.0",
+            "63.0",
+            "6.24",
+            "392.8428",
+            "MAY"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Book Holder",
+            "GIMBLE - BLUE",
+            "36804.0",
+            "63.0",
+            "48.0",
+            "6.24",
+            "299.2992",
+            "MAY"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Book Holder",
+            "GIMBLE - FOREST GREEN",
+            "36806.0",
+            "65.0",
+            "48.0",
+            "6.24",
+            "299.2992",
+            "MAY"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Notebooks",
+            "ECLECTIONARY JOURNAL TABS - BOTANICAL",
+            "37601.0",
+            "273.0",
+            "",
+            "",
+            "",
+            "NO STOCK"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Notebooks",
+            "ECLECTIONARY JOURNAL TABS - FANTASY",
+            "37602.0",
+            "459.0",
+            "3.0",
+            "3.47",
+            "10.4",
+            "MARCH"
+          ],
+          [
+            "",
+            "5 IF by Air",
+            "Display",
+            "BOOKAROO PEN DISPLAY CDU",
+            "CDU431",
+            "2.0",
+            "",
+            "",
+            "",
+            "NO STOCK"
+          ]
+        ]
+      },
+      {
+        "name": "SOH",
+        "dimensions": "A1:AF3937",
+        "headers": [
+          "sku",
+          "item_name",
+          "SOH FEB 23",
+          "Status",
+          "unit"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "91716.0",
+            "1 Compact Lenses Chilli",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91751.0",
+            "1 Compact Lenses Jet",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91726.0",
+            "1 Compact Lenses Olive",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91736.0",
+            "1 Compact Lenses Orchid",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91746.0",
+            "1 Compact Lenses Storm",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91741.0",
+            "1 Compact Lenses Twilight",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91717.0",
+            "1.5 Compact Lenses Chilli",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91727.0",
+            "1.5 Compact Lenses Olive",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91737.0",
+            "1.5 Compact Lenses Orchid",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91747.0",
+            "1.5 Compact Lenses Storm",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "MOQ",
+        "dimensions": "A1:D1270",
+        "headers": [
+          "Item Name",
+          "SKU",
+          "MOQ",
+          "CONTINUE /\nDISCONTINUE"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "1000 Puzzle Cinque Terre",
+            "PZT005",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Florence",
+            "PZT002",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Roman Forum",
+            "PZT004",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle St Peter's",
+            "PZT003",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Umbria",
+            "PZT006",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Venice",
+            "PZT001",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "101 Books Scratch Poster",
+            "SM007",
+            "504.0",
+            "DC"
+          ],
+          [
+            "2 DRAWER BABY KEEPSAKE BOX - PETER RABBIT ADVENTUR",
+            "RFS11413",
+            "7.0",
+            "DC"
+          ],
+          [
+            "3D AG Brush Tailed Possum",
+            "3DAG012",
+            "1014.0",
+            "DC"
+          ],
+          [
+            "3D AG Butterfly",
+            "3DAG007",
+            "1014.0",
+            "DC"
+          ]
+        ]
+      },
+      {
+        "name": "PO",
+        "dimensions": "A1:Q118",
+        "headers": [
+          "Purchase Order Date",
+          "Purchase Order Number",
+          "Purchase Order Status",
+          "Vendor Name",
+          "Item Name",
+          "SKU",
+          "Quantity Ordered",
+          "Item Price",
+          "REMARKS",
+          "SHIPMENT"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "DEAR MUM - FYTM CONTEMPORARY",
+            "DMC",
+            "680.0",
+            "2.8",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "DEAR GRANDMA FYTM CONTEMPORAY",
+            "DGMC",
+            "600.0",
+            "2.8",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "DEAR DAD - FYTM CONTEMPORAY",
+            "DDC",
+            "400.0",
+            "2.8",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "DEAR GRANDAD FYTM CONTEMPORAY",
+            "DGDC",
+            "280.0",
+            "2.8",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "EARLY YEARS GREY",
+            "EYG",
+            "48.0",
+            "2.9",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "WELCOME TO THE WORLD - Lucy Tapper",
+            "T2A",
+            "220.0",
+            "2.2",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "YOU'RE THE BIGGEST - Lucy Tapper",
+            "T2B",
+            "220.0",
+            "2.2",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "PROMISES FOR YOU",
+            "T2I",
+            "88.0",
+            "2.2",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "THE ONLY BEAR FOR ME",
+            "T8A",
+            "132.0",
+            "2.2",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ],
+          [
+            "2025-10-20 00:00:00",
+            "PO-00711",
+            "Issued",
+            "From You To Me Limited",
+            "Everything is Better Because Of You",
+            "T8B",
+            "68.0",
+            "2.75",
+            "",
+            "ETA FEB 5 SYDNEY"
+          ]
+        ]
+      },
+      {
+        "name": "list",
+        "dimensions": "A1:E60",
+        "headers": [
+          "IF BY AIR",
+          "IF BY AIR"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "To Last to FEBRUARY",
+            "To Last to FEBRUARY",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Calculated",
+            "Rounded in 6s",
+            ""
+          ],
+          [
+            "FAB FLAT PEN DISPLAY",
+            "90400D",
+            "67.0",
+            "72.0",
+            ""
+          ],
+          [
+            "FABULOUSLY FLAT PAPER PENS",
+            "34101.0",
+            "3273.0",
+            "3276.0",
+            ""
+          ],
+          [
+            "TRAVEL BOOK REST - BLUE",
+            "35801.0",
+            "102.0",
+            "102.0",
+            ""
+          ],
+          [
+            "TRAVEL BOOK REST - GREY",
+            "35804.0",
+            "78.0",
+            "78.0",
+            ""
+          ],
+          [
+            "TRAVEL BOOK REST - MINT",
+            "35805.0",
+            "54.0",
+            "54.0",
+            ""
+          ],
+          [
+            "GIMBLE - MINT",
+            "36801.0",
+            "150.0",
+            "150.0",
+            ""
+          ],
+          [
+            "GIMBLE - PINK",
+            "36803.0",
+            "108.0",
+            "108.0",
+            ""
+          ],
+          [
+            "GIMBLE - BLUE",
+            "36804.0",
+            "114.0",
+            "114.0",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "FYTM %",
+        "dimensions": "A1:AL26",
+        "headers": [
+          "0.1",
+          "0.08",
+          "0.085",
+          "0.08",
+          "0.07",
+          "0.075",
+          "0.09",
+          "0.11",
+          "0.09",
+          "0.065",
+          "0.055",
+          "0.1"
+        ],
+        "sample_formulas": [
+          {
+            "cell": "N3",
+            "formula": "=SUM(B3:M3)"
+          },
+          {
+            "cell": "B4",
+            "formula": "=B3/$N$3"
+          },
+          {
+            "cell": "C4",
+            "formula": "=C3/$N$3"
+          },
+          {
+            "cell": "D4",
+            "formula": "=D3/$N$3"
+          },
+          {
+            "cell": "E4",
+            "formula": "=E3/$N$3"
+          },
+          {
+            "cell": "F4",
+            "formula": "=F3/$N$3"
+          },
+          {
+            "cell": "G4",
+            "formula": "=G3/$N$3"
+          },
+          {
+            "cell": "H4",
+            "formula": "=H3/$N$3"
+          },
+          {
+            "cell": "I4",
+            "formula": "=I3/$N$3"
+          },
+          {
+            "cell": "J4",
+            "formula": "=J3/$N$3"
+          }
+        ],
+        "sample_data": [
+          [
+            "",
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00",
+            "2025-04-23 00:00:00",
+            "2025-05-23 00:00:00",
+            "2025-06-23 00:00:00"
+          ],
+          [
+            "",
+            "1290.0",
+            "1184.0",
+            "889.0",
+            "522.0",
+            "1141.0",
+            "935.0",
+            "1743.0",
+            "1199.0",
+            "1167.0"
+          ],
+          [
+            "",
+            "2025-10-23 00:00:00",
+            "2025-11-23 00:00:00",
+            "2025-12-23 00:00:00",
+            "2025-01-24 00:00:00",
+            "2025-02-24 00:00:00",
+            "2025-03-24 00:00:00",
+            "2025-04-24 00:00:00",
+            "2025-05-24 00:00:00",
+            "2025-06-24 00:00:00"
+          ],
+          [
+            "",
+            "1700.0",
+            "1144.0",
+            "1154.0",
+            "965.0",
+            "1658.0",
+            "2781.0",
+            "1258.0",
+            "923.0",
+            "628.0"
+          ],
+          [
+            "",
+            "2025-10-24 00:00:00",
+            "2025-11-24 00:00:00",
+            "2025-12-24 00:00:00",
+            "2025-01-25 00:00:00",
+            "2025-02-25 00:00:00",
+            "2025-03-25 00:00:00",
+            "2025-04-25 00:00:00",
+            "2025-05-25 00:00:00",
+            "2025-06-25 00:00:00"
+          ],
+          [
+            "",
+            "1113.0",
+            "1428.0",
+            "1093.0",
+            "1488.0",
+            "1004.0",
+            "865.0",
+            "1429.0",
+            "948.0",
+            "624.0"
+          ]
+        ]
+      },
+      {
+        "name": "Unit Value",
+        "dimensions": "A1:BZT3341",
+        "headers": [
+          "INVENTORY VALUATION FEB 23 SOH"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "Item Name",
+            "sku",
+            "Stock On Hand",
+            "Inventory Asset Value",
+            "Stock value",
+            "inventory_account",
+            "status",
+            "item.CF.Planning Group",
+            "item.CF.Product Category",
+            ""
+          ],
+          [
+            "1 Compact Lenses Chilli",
+            "91716.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Jet",
+            "91751.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Olive",
+            "91726.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Orchid",
+            "91736.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Storm",
+            "91746.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Twilight",
+            "91741.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Chilli",
+            "91717.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Olive",
+            "91727.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Orchid",
+            "91737.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ]
+        ]
+      }
+    ],
+    "key_patterns": {
+      "has_order_calc": "PO"
+    }
+  },
+  {
+    "filename": "forecasting-2.xlsx",
+    "sheets": [
+      {
+        "name": "Forecast",
+        "dimensions": "A1:DJ262140",
+        "headers": [
+          "4.0",
+          "7.0",
+          "14.0",
+          "19.0",
+          "40.0",
+          "52.0"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "Monthly Calendar based on Main Runners Actual",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00",
+            "2025-04-23 00:00:00",
+            "2025-05-23 00:00:00"
+          ],
+          [
+            "Planning Group",
+            "Product Category",
+            "item_name",
+            "sku",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales"
+          ],
+          [
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Cat (New)",
+            "ABL018",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Dinosaur (New)",
+            "ABL019",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Dog (New)",
+            "ABL020",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Rabbit (New)",
+            "ABL021",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Unicorn (New)",
+            "ABL023",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "Planned order",
+        "dimensions": "B1:R261958",
+        "headers": [
+          "Planning Group",
+          "Product Category",
+          "ITEM NAME",
+          "SKU",
+          "FORECAST",
+          "SOH  as of \nFEB 23",
+          " Value per Unit ",
+          "Stock Value",
+          "Stockout Month of current SOH",
+          "PENDING PO -ETA MAR",
+          "Stockout Month after PO",
+          "BALANCE UNTIL AUGUST",
+          "MOQ",
+          "QTY TO ORDER ",
+          "REMARKS",
+          "PO VALUE"
+        ],
+        "sample_formulas": [
+          {
+            "cell": "Q2",
+            "formula": "=O2*H2"
+          },
+          {
+            "cell": "Q3",
+            "formula": "=O3*H3"
+          },
+          {
+            "cell": "Q4",
+            "formula": "=O4*H4"
+          },
+          {
+            "cell": "Q5",
+            "formula": "=O5*H5"
+          },
+          {
+            "cell": "I6",
+            "formula": "=SUM(I2:I5)"
+          },
+          {
+            "cell": "O6",
+            "formula": "=SUM(O2:O5)"
+          },
+          {
+            "cell": "Q6",
+            "formula": "=SUM(Q2:Q5)"
+          }
+        ],
+        "sample_data": [
+          [
+            "",
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Animal Book Light Rechargeable - Unicorn (New)",
+            "ABL023",
+            "359.0",
+            "294.0",
+            "5.17",
+            "1520.9",
+            "JULY"
+          ],
+          [
+            "",
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Nano Book Light Rechargeable - White",
+            "NBL02",
+            "3010.0",
+            "1714.0",
+            "3.46",
+            "5937.3",
+            "JUNE"
+          ],
+          [
+            "",
+            "1 MAIN RUNNER",
+            "Book Light",
+            "Nano Book Light Rechargeable - Pink",
+            "NBL04",
+            "2576.0",
+            "2335.0",
+            "3.46",
+            "8088.2",
+            "AUGUST"
+          ],
+          [
+            "",
+            "1 MAIN RUNNER",
+            "Mens Gifts",
+            "Krafftman - Poker Set",
+            "MT08",
+            "277.0",
+            "34.0",
+            "3.76",
+            "127.8",
+            "JUNE"
+          ]
+        ]
+      },
+      {
+        "name": "Assumptions",
+        "dimensions": "A1:AMI42",
+        "headers": [],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "Bvooklight Assumptions 7 May 2025",
+            "",
+            "",
+            "Until 31 July",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+            ""
+          ],
+          [
+            "Book Light",
+            "Nano Book Light Rechargeable - Black",
+            "NBL01",
+            "When stock runs out assume all customers order Nan",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Book Light",
+            "Nano Book Light Rechargeable - White",
+            "NBL02",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Book Light",
+            "Nano Book Light Rechargeable - Blue",
+            "NBL03",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Book Light",
+            "Nano Book Light Rechargeable - Pink",
+            "NBL04",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Book Light",
+            "Amber Book Light Rechargeable - Black",
+            "ABL001",
+            "When stock runs out assume all customers order Nan",
+            "50 Pct Nano 50 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            ""
+          ],
+          [
+            "Book Light",
+            "Amber Book Light Rechargeable - White",
+            "ABL009",
+            "When stock runs out assume all customers order Nan",
+            "50 Pct Nano 50 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            ""
+          ],
+          [
+            "Book Light",
+            "The Flexi Book Light Rechargeable - Black",
+            "RCBL001",
+            "When stock runs out assume all customers order Nan",
+            "50 Pct Nano 50 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            "25 Pct Nano 75 Pct New Flexis",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "SOH",
+        "dimensions": "A1:AA3938",
+        "headers": [],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "sku",
+            "item_name",
+            "SOH FEB 23",
+            "Status",
+            "unit",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91716.0",
+            "1 Compact Lenses Chilli",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91751.0",
+            "1 Compact Lenses Jet",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91726.0",
+            "1 Compact Lenses Olive",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91736.0",
+            "1 Compact Lenses Orchid",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91746.0",
+            "1 Compact Lenses Storm",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91741.0",
+            "1 Compact Lenses Twilight",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91717.0",
+            "1.5 Compact Lenses Chilli",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91727.0",
+            "1.5 Compact Lenses Olive",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "91737.0",
+            "1.5 Compact Lenses Orchid",
+            "",
+            "inactive",
+            "pcs",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "MOQ",
+        "dimensions": "A1:D1270",
+        "headers": [
+          "Item Name",
+          "SKU",
+          "MOQ",
+          "CONTINUE /\nDISCONTINUE"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "1000 Puzzle Cinque Terre",
+            "PZT005",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Florence",
+            "PZT002",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Roman Forum",
+            "PZT004",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle St Peter's",
+            "PZT003",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Umbria",
+            "PZT006",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Venice",
+            "PZT001",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "101 Books Scratch Poster",
+            "SM007",
+            "504.0",
+            "DC"
+          ],
+          [
+            "2 DRAWER BABY KEEPSAKE BOX - PETER RABBIT ADVENTUR",
+            "RFS11413",
+            "7.0",
+            "DC"
+          ],
+          [
+            "3D AG Brush Tailed Possum",
+            "3DAG012",
+            "1014.0",
+            "DC"
+          ],
+          [
+            "3D AG Butterfly",
+            "3DAG007",
+            "1014.0",
+            "DC"
+          ]
+        ]
+      },
+      {
+        "name": "PO",
+        "dimensions": "A1:AJ144",
+        "headers": [
+          "Purchase Order Date",
+          "Purchase Order Number",
+          "Purchase Order Status",
+          "Vendor Name",
+          "Item Name",
+          "SKU",
+          "Quantity Ordered",
+          "Item Price",
+          "REMARKS",
+          "SHIPMENT"
+        ],
+        "sample_formulas": [
+          {
+            "cell": "T6",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T7",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T8",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T9",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T10",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T11",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T12",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T13",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T14",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          },
+          {
+            "cell": "T15",
+            "formula": "=VLOOKUP(#REF!,SEPT30SOH,3,false)"
+          }
+        ],
+        "sample_data": [
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Labrador Medium",
+            "RS029",
+            "1000.0",
+            "1.87",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Labrador Small",
+            "RS044",
+            "700.0",
+            "1.75",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Grey Cat Small",
+            "RS041",
+            "500.0",
+            "1.67",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Rainbow Unicorn Medium",
+            "RS026",
+            "300.0",
+            "1.88",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Rainbow Unicorn Small",
+            "RS043",
+            "1000.0",
+            "1.76",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Red Fox Medium",
+            "RS031",
+            "700.0",
+            "1.95",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Red Fox Small",
+            "RS045",
+            "500.0",
+            "1.83",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Mottled Dog Medium",
+            "RS016",
+            "500.0",
+            "1.95",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Mottled Dog Small",
+            "RS040",
+            "500.0",
+            "1.83",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Bunny Medium",
+            "RS019",
+            "500.0",
+            "1.75",
+            "",
+            "ETA MAR 7"
+          ]
+        ]
+      },
+      {
+        "name": "inventory value",
+        "dimensions": "A1:AI3340",
+        "headers": [
+          "INVENTORY VALUATION FEB 23 SOH"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "Item Name",
+            "sku",
+            "Stock On Hand",
+            "Inventory Asset Value",
+            "Stock value",
+            "inventory_account",
+            "status",
+            "item.CF.Planning Group",
+            "item.CF.Product Category",
+            ""
+          ],
+          [
+            "1 Compact Lenses Chilli",
+            "91716.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Jet",
+            "91751.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Olive",
+            "91726.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Orchid",
+            "91736.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Storm",
+            "91746.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1 Compact Lenses Twilight",
+            "91741.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Chilli",
+            "91717.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Olive",
+            "91727.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ],
+          [
+            "1.5 Compact Lenses Orchid",
+            "91737.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses",
+            ""
+          ]
+        ]
+      }
+    ],
+    "key_patterns": {
+      "has_seasonality": "Planned order",
+      "has_forecast": "Planned order",
+      "has_order_calc": "PO"
+    }
+  },
+  {
+    "filename": "forecasting-3.xlsx",
+    "sheets": [
+      {
+        "name": "Forecast",
+        "dimensions": "A1:ANV387",
+        "headers": [
+          "DC"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "0.057",
+            "0.114",
+            "0.127",
+            "0.115",
+            "0.094",
+            "0.052"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "2025-10-22 00:00:00",
+            "2025-11-22 00:00:00",
+            "2025-12-22 00:00:00",
+            "2025-01-23 00:00:00",
+            "2025-02-23 00:00:00",
+            "2025-03-23 00:00:00"
+          ],
+          [
+            "Planning Group",
+            "Product Category",
+            "item_name",
+            "sku",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales",
+            "sales"
+          ],
+          [
+            "2 China Standard",
+            "Baby Blanket",
+            "Sleepy Friends - Unicorn",
+            "SF01",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2 China Standard",
+            "Baby Blanket",
+            "Sleepy Friends - Koala",
+            "SF02",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2 China Standard",
+            "Baby Blanket",
+            "Sleepy Friends - Dog",
+            "SF03",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2 China Standard",
+            "Baby Blanket",
+            "Sleepy Friends - Rabbit",
+            "SF04",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2 China Standard",
+            "Baby Blanket",
+            "Sleepy Friends - Fox",
+            "SF05",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "name": "Planned order",
+        "dimensions": "B1:T82",
+        "headers": [],
+        "sample_formulas": [
+          {
+            "cell": "R6",
+            "formula": "=P6*H6"
+          },
+          {
+            "cell": "R8",
+            "formula": "=P8*H8"
+          },
+          {
+            "cell": "R9",
+            "formula": "=P9*0.35"
+          },
+          {
+            "cell": "R10",
+            "formula": "=P10*H10"
+          },
+          {
+            "cell": "R11",
+            "formula": "=P11*H11"
+          },
+          {
+            "cell": "R12",
+            "formula": "=P12*H12"
+          },
+          {
+            "cell": "R16",
+            "formula": "=P16*H16"
+          },
+          {
+            "cell": "R17",
+            "formula": "=P17*H17"
+          },
+          {
+            "cell": "R18",
+            "formula": "=P18*H18"
+          },
+          {
+            "cell": "R19",
+            "formula": "=P19*H19"
+          }
+        ],
+        "sample_data": [
+          [
+            "",
+            "Planning Group",
+            "Product Category",
+            "ITEM NAME",
+            "SKU",
+            "FORECAST UNTIL AUG",
+            "SOH  as of FEB 23",
+            "Value per unit",
+            "Stock Value",
+            "Stockout Month of current SOH"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Baby Rattle",
+            "Rattling Friends - Dinosaur",
+            "RTF06",
+            "40.0",
+            "30.0",
+            "1.86",
+            "55.89",
+            "JULY"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bamboo Fan",
+            "Bamboo Fan - Strawberry Thief Blue",
+            "BF05",
+            "372.0",
+            "",
+            "",
+            "$ -",
+            "NO STOCK"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Black Lab",
+            "3D014",
+            "540.0",
+            "255.0",
+            "0.35",
+            "89.2",
+            "JUNE"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Kangaroo",
+            "3D016",
+            "636.0",
+            "636.0",
+            "0.33",
+            "212.74",
+            "AUGUST"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Leopard",
+            "3D020",
+            "408.0",
+            "201.0",
+            "0.36",
+            "72.36",
+            "JUNE"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Koala",
+            "3D022",
+            "720.0",
+            "",
+            "",
+            "$ -",
+            "NO STOCK"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Meerkat",
+            "3D024",
+            "492.0",
+            "12.0",
+            "0.36",
+            "4.31",
+            "MARCH"
+          ],
+          [
+            "",
+            "2 China Standard",
+            "Bookmarks",
+            "3D Bkmk - Artic Wolf",
+            "3D026",
+            "570.0",
+            "246.0",
+            "0.35",
+            "86.05",
+            "MAY"
+          ]
+        ]
+      },
+      {
+        "name": "MOQ",
+        "dimensions": "A1:D1270",
+        "headers": [
+          "Item Name",
+          "SKU",
+          "MOQ",
+          "CONTINUE /\nDISCONTINUE"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "1000 Puzzle Cinque Terre",
+            "PZT005",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Florence",
+            "PZT002",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Roman Forum",
+            "PZT004",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle St Peter's",
+            "PZT003",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Umbria",
+            "PZT006",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "1000 Puzzle Venice",
+            "PZT001",
+            "1000.0",
+            "DC"
+          ],
+          [
+            "101 Books Scratch Poster",
+            "SM007",
+            "504.0",
+            "DC"
+          ],
+          [
+            "2 DRAWER BABY KEEPSAKE BOX - PETER RABBIT ADVENTUR",
+            "RFS11413",
+            "7.0",
+            "DC"
+          ],
+          [
+            "3D AG Brush Tailed Possum",
+            "3DAG012",
+            "1014.0",
+            "DC"
+          ],
+          [
+            "3D AG Butterfly",
+            "3DAG007",
+            "1014.0",
+            "DC"
+          ]
+        ]
+      },
+      {
+        "name": "PO",
+        "dimensions": "A1:S262144",
+        "headers": [
+          "Purchase Order Date",
+          "Purchase Order Number",
+          "Purchase Order Status",
+          "Vendor Name",
+          "Item Name",
+          "SKU",
+          "Quantity Ordered",
+          "Item Price",
+          "REMARKS",
+          "SHIPMENT"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Labrador Medium",
+            "RS029",
+            "1000.0",
+            "1.87",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Labrador Small",
+            "RS044",
+            "700.0",
+            "1.75",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Grey Cat Small",
+            "RS041",
+            "500.0",
+            "1.67",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Rainbow Unicorn Medium",
+            "RS026",
+            "300.0",
+            "1.88",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Rainbow Unicorn Small",
+            "RS043",
+            "1000.0",
+            "1.76",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Red Fox Medium",
+            "RS031",
+            "700.0",
+            "1.95",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Red Fox Small",
+            "RS045",
+            "500.0",
+            "1.83",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Mottled Dog Medium",
+            "RS016",
+            "500.0",
+            "1.95",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Mottled Dog Small",
+            "RS040",
+            "500.0",
+            "1.83",
+            "",
+            "ETA MAR 7"
+          ],
+          [
+            "2025-10-30 00:00:00",
+            "PO-00713",
+            "Issued",
+            "ZHEJIANG XINHONGZHOU TRADING CO., LTD.",
+            "Reading Socks - Bunny Medium",
+            "RS019",
+            "500.0",
+            "1.75",
+            "",
+            "ETA MAR 7"
+          ]
+        ]
+      },
+      {
+        "name": "unit value",
+        "dimensions": "A1:I3340",
+        "headers": [
+          "INVENTORY VALUATION FEB 23 SOH"
+        ],
+        "sample_formulas": [],
+        "sample_data": [
+          [
+            "Item Name",
+            "sku",
+            "Stock On Hand",
+            "Inventory Asset Value",
+            "Stock value",
+            "inventory_account",
+            "status",
+            "item.CF.Planning Group",
+            "item.CF.Product Category"
+          ],
+          [
+            "1 Compact Lenses Chilli",
+            "91716.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1 Compact Lenses Jet",
+            "91751.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1 Compact Lenses Olive",
+            "91726.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1 Compact Lenses Orchid",
+            "91736.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1 Compact Lenses Storm",
+            "91746.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1 Compact Lenses Twilight",
+            "91741.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1.5 Compact Lenses Chilli",
+            "91717.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1.5 Compact Lenses Olive",
+            "91727.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ],
+          [
+            "1.5 Compact Lenses Orchid",
+            "91737.0",
+            "",
+            "",
+            "",
+            "Finished Goods",
+            "inactive",
+            "DELETED",
+            "Reading Glasses"
+          ]
+        ]
+      }
+    ],
+    "key_patterns": {
+      "has_order_calc": "PO"
+    }
+  }
+]
